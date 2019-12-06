@@ -1,10 +1,8 @@
 ---
-
 layout: essay
 type: essay
 title: Progress in Programming
 date: 2019-12-5
-
 ---
 
 My programming skills have greatly improved.
