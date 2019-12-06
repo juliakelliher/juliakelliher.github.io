@@ -1,3 +1,5 @@
+---
+
 layout: essay
 type: essay
 title: Progress in Programming
