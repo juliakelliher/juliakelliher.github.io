@@ -1,10 +1,8 @@
 ---
-
 layout: essay
 type: essay
 title: Assignment 2 Reflection
 date: 2019-12-5
-
 ---
 
 Provide a brief introduction to the assignment along with a link to this page for further details
