@@ -3,6 +3,8 @@ layout: essay
 type: essay
 title: Progress in Programming
 date: 2019-12-5
+labels:
+  - MIS
 ---
 
 My programming skills have greatly improved.
