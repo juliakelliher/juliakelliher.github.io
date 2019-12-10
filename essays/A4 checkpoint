@@ -1,6 +1,11 @@
 ---
-type:
-
+layout: essay
+type: essay
+title: Assignment 4 Checkpoint
+date: 2019-12-09
+labels:
+  - MIS
+---
 
 Describe the web-application you intend to build (in detail please!)
 
